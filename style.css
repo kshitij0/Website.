@@ -1,0 +1,94 @@
+html,body{
+    background-image:linear-gradient(to right,#db7944,#d6273b);
+}
+.first{
+    display:flex;
+    justify-content: space-evenly;
+    margin:50px
+}
+
+.second{
+    display:flex;
+    justify-content: space-between;
+    margin:50px
+
+}
+
+.third{
+    display:flex;
+    justify-content: space-evenly;
+    margin:50px
+
+}
+.a{
+    display:flex;
+    justify-content: space-evenly;
+    color:hsl(200,80%,30%);
+    background-color: hsl(200,40%,60%);
+     width:50em;
+     align-items: center;
+     margin-left: 550px;
+}
+.b{
+    display:flex;
+    justify-content: space-evenly;
+    color:hsl(160,80%,20%);
+    background-color:hsl(160,60%,80%)
+}
+.c{
+    display: flex;
+    justify-content: space-evenly;
+    color:green
+}
+.d{
+    display:flex;
+    justify-content:space-evenly;
+    color:green
+}
+.h{
+    display:flex;
+    justify-content:flex-end;
+
+}
+.h a{
+    font-size: larger;
+}
+.des1{
+    font-size:larger;
+    max-width: 120px;
+    max-height: 180px;
+    overflow: visible;
+    overflow:scroll;
+    position: absolute;
+    left:10%
+
+}
+.first img:hover{
+  
+    margin: 30px;
+    transition:1s linear
+
+}
+.first img{
+    transition:1s linear
+
+
+}
+.second img:hover{
+    margin: 30px;
+    transition:1s linear
+
+}
+.secomd img{
+    transition:1s linear
+
+}
+.third img:hover{
+    margin: 30px;
+    transition:1s linear
+
+}
+.third img{
+    transition:1s linear
+
+}
